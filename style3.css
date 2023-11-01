@@ -1,0 +1,27 @@
+#alinea1 {
+    color: yellow;
+
+}
+
+#alinea2 {
+    color: pink;
+}
+#alinea3 {
+    color: rgb(13, 247, 25);
+    font-family: "Courier new";
+
+}
+body {
+	background-color : purple;
+}
+h1 {
+	color : red;
+    font-family: "Comic Sans MS";
+}
+body {
+    background-image: url("https://viberatecdn.blob.core.windows.net/entity/artist/bigidagoe-nTtbG"); 
+    background-size: cover;
+  }
+  h2 {
+	color : rgb(27, 25, 25);
+}
